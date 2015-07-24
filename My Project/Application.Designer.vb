@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.QuasiWatchDog.Form1
+            Me.MainForm = Global.ProcessWatchDog.Form1
         End Sub
     End Class
 End Namespace

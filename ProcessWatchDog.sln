@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QuasiWatchDog", "QuasiWatchDog.vbproj", "{DD3BF0E7-5C5A-4468-AD46-5602C0163A7A}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProcessWatchdog", "ProcessWatchdog.vbproj", "{DD3BF0E7-5C5A-4468-AD46-5602C0163A7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -8,9 +8,9 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{DD3BF0E7-5C5A-4468-AD46-5602C0163A7A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>QuasiWatchDog.My.MyApplication</StartupObject>
-    <RootNamespace>QuasiWatchDog</RootNamespace>
-    <AssemblyName>QuasiWatchDog</AssemblyName>
+    <StartupObject>ProcessWatchDog.My.MyApplication</StartupObject>
+    <RootNamespace>ProcessWatchDog</RootNamespace>
+    <AssemblyName>ProcessWatchDog</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
@@ -23,7 +23,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>Debug\</OutputPath>
-    <DocumentationFile>QuasiWatchDog.xml</DocumentationFile>
+    <DocumentationFile>ProcessWatchDog.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
@@ -33,7 +33,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>Release\</OutputPath>
-    <DocumentationFile>QuasiWatchDog.xml</DocumentationFile>
+    <DocumentationFile>ProcessWatchDog.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
